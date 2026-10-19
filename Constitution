@@ -1,0 +1,15 @@
+Aprovação da especificação (spec): os dois integrantes da dupla devem revisar e aprovar os
+requisitos  antes do início do desenvolvimento dos códigos.
+Aprovação do merge: um integrante poderá implementar as funcionalidades e abrir uma solicitação
+de revisão, mas o outro deverá revisar e aprovar as alterações antes de adicionar ao projeto principal.
+O que a IA pode fazer sem aprovação prévia: gerar sugestões de código, criar componentes de interface,
+auxiliar na documentação, sugerir testes e explicar erros, desde que respeite os requisitos definidos.
+O que exige aprovação humana: alterações nos requisitos, mudanças na estrutura do banco de dados,
+modificações nas regras de segurança.
+
+REGRAS INEGOCIÁVEIS:
+Nenhuma senha, ou dado pessoal de usuárias poderá ser inserido em prompts, 
+no código-fonte ou no repositório sem autorização. 
+Não haverá mudança no documento de requisitos ou estrutura do programa sem antes consultar um 
+dos integrantes.
+Cada etapa ou versão do desenvolvimento do projeto será testada por pessoas reais.
